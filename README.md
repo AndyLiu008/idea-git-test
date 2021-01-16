@@ -1,3 +1,3 @@
 # idea-git-test
 
-aaaaaaaaaaaa
+aaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbb
